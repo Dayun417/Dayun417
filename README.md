@@ -5,10 +5,11 @@
 
   <br> <br> <br>
   
-<div>
+<div align="center">
   <!-- Solved.ac 프로필 뱃지 -->
   <a href="https://solved.ac/dayun417">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayun417" alt="Solved.ac 프로필" width="400px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dayun417&show_icons=true&theme=스타일)">
   </a>
 </div>
 
@@ -48,8 +49,9 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">
   <br>
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
-  <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
+  <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=22ABF3">
+  <img src="https://img.shields.io/badge/Eclips IDE-2C2255.svg?style=for-the-badge&logo=Eclips IDE&logoColor=22ABF3">
 </div>
 
   <br>
