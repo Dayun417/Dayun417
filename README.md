@@ -6,11 +6,9 @@
   <br> <br> <br>
   
 <div align="center">
-  <!-- Solved.ac 프로필 뱃지 -->
   <a href="https://solved.ac/dayun417">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayun417" alt="Solved.ac 프로필" width="400px">
     <img src="https://github-readme-stats.vercel.app/api?username=Dayun417&show_icons=true&theme=omni">
-  </a>
+</a>
 </div>
 
   <br> <br>
@@ -71,6 +69,16 @@
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 </div>
+
+<br>
+
+<div>
+<!-- Solved.ac 프로필 뱃지 -->
+<a href="https://solved.ac/dayun417">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayun417" alt="Solved.ac 프로필" width="400px">
+</a>
+</div>
+
 
 
 
