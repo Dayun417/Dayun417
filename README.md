@@ -1,8 +1,11 @@
 ## Hi there 👋
 <div align="center">
   <img width="500px" src="https://github.com/Dayun417/Dayun417/blob/main/logo3.png" alt="로고 이미지">
+  <br>
+  <br>
+  
 <!--내용 부분-->
-<div><h2>📚 STACKS</h2></div>
+<div><h2>📚 Stacks</h2></div>
 
 <div> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -22,7 +25,7 @@
   <br>
 </div>
   <br>
-<div><h2>🛠 Tools</h2>
+<div><h2>🛠 Tools</h2></div>
 
 <div>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -31,6 +34,16 @@
   <br>
   <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
+</div>
+
+  <br>
+
+<div><h2>📫 Contact</h2></div>
+
+<div>
+  <a href="https://www.instagram.com/dx_yun2/">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
 </div>
 
 
