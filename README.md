@@ -40,7 +40,6 @@
   
   <br>   
   <img src="https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon%20web%20services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <br>
 </div>
 
@@ -59,6 +58,7 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=22ABF3">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/amazon%20web%20services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">
 </div>
 
