@@ -51,7 +51,7 @@
   <br>
   <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=22ABF3">
-  <img src="https://img.shields.io/badge/Eclips IDE-2C2255.svg?style=for-the-badge&logo=Eclips IDE&logoColor=22ABF3">
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
 </div>
 
   <br>
