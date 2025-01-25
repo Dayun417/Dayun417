@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  
+  <img width="500px" src="https://github.com/Dayun417/Dayun417/blob/main/logo.png" alt="로고 이미지">
 <!--내용 부분-->
 <div><h2>📚 STACKS</h2></div>
 
