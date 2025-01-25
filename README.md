@@ -13,7 +13,7 @@
   </a>
 </div>
 
-  <br>
+  <br> <br>
   
 <!--내용 부분-->
 <div align="center">
