@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <img width="500px" src="https://github.com/Dayun417/Dayun417/blob/main/logo3.png" alt="로고 이미지">
 </div>
@@ -88,6 +87,8 @@
 
 
 <!--
+## Hi there 👋
+
 **Dayun417/Dayun417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
