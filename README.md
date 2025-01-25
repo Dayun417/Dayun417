@@ -1,13 +1,25 @@
 ## Hi there 👋
 <div align="center">
   <img width="500px" src="https://github.com/Dayun417/Dayun417/blob/main/logo3.png" alt="로고 이미지">
-  <br>
+</div>
+
+  <br> <br> <br>
+  
+<div>
+  <!-- Solved.ac 프로필 뱃지 -->
+  <a href="https://solved.ac/dayun417">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayun417" alt="Solved.ac 프로필" width="400px">
+  </a>
+</div>
+
   <br>
   
 <!--내용 부분-->
-<div><h2>📚 Stacks</h2></div>
+<div align="center">
+  <h2>📚 Stacks</h2>
+</div>
 
-<div> 
+<div align="center"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -24,10 +36,14 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <br>
 </div>
-  <br>
-<div><h2>🛠 Tools</h2></div>
 
-<div>
+  <br>
+  
+<div align="center">
+  <h2>🛠 Tools</h2>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">
@@ -38,9 +54,11 @@
 
   <br>
 
-<div><h2>📫 Contact</h2></div>
+<div align="center">
+  <h2>📫 Contact</h2>
+</div>
 
-<div>
+<div align="center">
   <a href="https://www.instagram.com/dx_yun2/">
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
