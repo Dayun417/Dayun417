@@ -9,7 +9,7 @@
   <!-- Solved.ac 프로필 뱃지 -->
   <a href="https://solved.ac/dayun417">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayun417" alt="Solved.ac 프로필" width="400px">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dayun417&show_icons=true&theme=스타일)">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dayun417&show_icons=true&theme=omni">
   </a>
 </div>
 
