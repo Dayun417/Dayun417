@@ -81,7 +81,7 @@
 <a href="https://solved.ac/dayun417">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayun417" alt="Solved.ac 프로필" width="400px">
 </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=dayun417&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=dayun417&theme=cold"/>
 </div>
 
 
