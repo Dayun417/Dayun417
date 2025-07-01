@@ -53,7 +53,7 @@
   <br>
   <img src="https://img.shields.io/badge/amazon%20web%20services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/androidstudio%20pi-A22846?style=for-the-badge&logo=androidstudio&logoColor=3DDC84">
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <br>
 </div>
 
