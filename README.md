@@ -2,9 +2,7 @@
   <img width="500px" src="https://github.com/Dayun417/Dayun417/blob/main/logo3.png" alt="로고 이미지">
 </div>
 
-  <br> <br> <br>
-
-  <br> <br>
+  <br> <br> <br> <br>
   
 <!--내용 부분-->
 <div align="center">
