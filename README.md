@@ -3,12 +3,6 @@
 </div>
 
   <br> <br> <br>
-  
-<div align="center">
-  <a href="https://solved.ac/dayun417">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dayun417&show_icons=true&theme=omni">
-</a>
-</div>
 
   <br> <br>
   
