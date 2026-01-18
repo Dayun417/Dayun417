@@ -6,13 +6,7 @@
   
 <!--내용 부분-->
 <div align="center">
-  <h1>📚 Stacks</h1>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>✨ Languages</h2>
+  <h1>📚 Tech Stacks</h1>
 </div>
 
 <div align="center"> 
