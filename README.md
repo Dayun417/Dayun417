@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/amazon%20web%20services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/androidstudio%20pi-A22846?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/android%20studio-#3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   
